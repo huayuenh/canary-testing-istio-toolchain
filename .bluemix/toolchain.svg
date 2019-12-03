@@ -124,7 +124,7 @@
 <text id="headerSVG.deliver" transform="matrix(1.0173 0 0 1 179.5986 23.5654)" class="st14 st15">DELIVER</text>
 <text id="headerSVG.run" transform="matrix(1.0173 0 0 1 266.792 23.5654)" class="st14 st15">RUN</text>
 <text id="headerSVG.issueTracker" transform="matrix(1.0173 0 0 1 3.311 125.8281)" class="st14 st15">ISSUE TRACKER</text>
-<text id="headerSVG.repository" transform="matrix(1.0173 0 0 1 103.5449 125.8281)" class="st14 st15">REPOSITORY</text>
+<text id="headerSVG.repository" transform="matrix(1.0173 0 0 1 120.5449 125.8281)" class="st14 st15">REPOSITORY</text>
 <text id="headerSVG.pipeline" transform="matrix(1.0173 0 0 1 197.3037 125.8281)" class="st14 st15">PIPELINE</text>
 <text id="headerSVG.ibmCloud" transform="matrix(1.0173 0 0 1 283.9443 125.8281)" class="st14 st15">IBM Cloud</text>
 <text id="headerSVG.webIde" transform="matrix(1.0173 0 0 1 110.2134 236.4668)" class="st14 st15">WEB IDE</text>
